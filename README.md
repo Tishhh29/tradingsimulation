@@ -1,8 +1,8 @@
-###trading simulation
+#Trading simulation
 
 This project aims to simulate a trading environment, providing users with a realistic experience of a trading platform. This README will guide you through the initial setup and explain the first screen of the simulation.
 
-### 1.User Authentication
+1.User Authentication
 This is the first screen of the trading simulation, where user credentials are validated. The screen contains the following components:
 
 User ID Field: Input field for the user's identification.
